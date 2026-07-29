@@ -1,6 +1,6 @@
 # تعريب Total War: THREE KINGDOMS
 
-المود لنظام Windows يثبت العربي الكامل للعبة
+المود لنظام Windows يثبت اللغة العربية بالكامل للعبة
 **Total War: THREE KINGDOMS** مع إضافات اختيارية متوافقة.
 
 **صاحب المشروع:** Hussain<br>
