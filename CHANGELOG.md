@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.3.1
+
+- Added separate Steam and Epic Games installation sections.
+- Added automatic Epic Games manifest detection and manual folder selection.
+- Added launching through Epic Games Launcher when its manifest is available.
+- Kept the translation and optional mod packages unchanged from v1.3.0.
+
 ## v1.3.0
 
 - Reviewed and corrected Arabic terminology across the localization.
