@@ -16,7 +16,7 @@
 
 [تحميل أحدث إصدار من ThreeKingdomsArabic.exe](https://github.com/almightyjack95-art/ThreeKingdomsArabic-Release/releases/latest/download/ThreeKingdomsArabic.exe)
 
-الإصدار الحالي: **v1.3.1**
+الإصدار الحالي: **v1.4.0**
 
 ## التثبيت
 
@@ -48,10 +48,10 @@
 
 ## التحقق من الملف
 
-SHA-256 للإصدار v1.3.1:
+SHA-256 للإصدار v1.4.0:
 
 ```text
-39A0665ECB7A1F0C8C231DC403D76B5AD1617FCACAEDFDB2876CB70CEDF78B61  ThreeKingdomsArabic.exe
+3CA468F84A085CF4891BF552519831891E303E3AA73281A186912C4C6C59849A  ThreeKingdomsArabic.exe
 ```
 
 ## الملكية وإعادة النشر
