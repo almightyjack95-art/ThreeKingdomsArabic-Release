@@ -1,5 +1,22 @@
 # Changelog
 
+## v1.5.1
+
+- Added a dedicated UI-free compatibility payload for Epic Games 1.7.8.
+- Preserved the accepted Steam V16 payload byte-for-byte.
+- Preserved all Arabic localization rows, fonts, and the name-order table in
+  the Epic payload while excluding the three Steam-derived TWUI overrides.
+- Made install, elevation, state detection, upgrades, and restore platform-aware.
+- Disabled optional unverified components on the Epic tab.
+- Added reproducible payload and manager builds plus platform-specific install
+  and restore self-tests.
+
+## v1.5.0
+
+- Embedded the accepted V16 Arabic payload.
+- Repaired verified multiline tooltip, Cao Cao, Meng Huo, main-menu credit, and
+  campaign pre-battle text routes.
+
 ## v1.4.0 R6
 
 - Updated the embedded Arabic localization to the user-tested R6 payload.
